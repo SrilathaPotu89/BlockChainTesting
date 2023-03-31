@@ -1,0 +1,38 @@
+
+1.APIAdapter:  ApI Type
+2.Article:    Article Category
+3.Block chain: No dropdown in status field
+4.Chat:    Who ID
+5.Check :  Check Type
+6.Client Requirement:Row click requested who ID, Requirement Type, System Section,Assessed Who ID
+7.Code Line:  Code line
+8.Contract Version:Add Button is there but Add form is not There
+9.Decision:  Decision Type, Decision,Stage
+10.QAInstance:  User Sign Off Id
+11.Request:  To Who, To Who ID,Request
+12.Requests:  From Who,To who
+13.Tag:Plain Page
+14.Task: Row Click In Tabs 
+->Time log:Who Id
+->Task mapping:bcoTask Mapping,In Add form No drop down in Status field
+->Chat: In Add Form Who Id
+->Check:Plain Page
+->Artifact:In Add form Article, Code, Contract, No dropdown in Status
+->Issuess:bco Issues, in Add Form No drop down in Status
+->Client Requirement:Bco client Requirement
+->project Decision:bco project Decision, In Add form no drop down in Status
+->Contracts:bcoContracts
+15.Time Log:  Who ID
+16.Tool Output Line:  Tool Result, Result Category, Result Type, Result Criticality
+17.Global Setting:No dropdown in status field
+18.Master List:Row Click
+->In Task status No drop down in status Field
+19. AutoStageQs:Plain Page
+
+
+
+
+
+
+
+
